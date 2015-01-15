@@ -1,0 +1,3 @@
+=Liferay portlet tips.
+
+The [[Spring MVC portlet example|https://github.com/pavelfomin/liferay-spring-mvc-portlet]] working action processing fork can be used as a starting point.   
