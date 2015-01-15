@@ -1,2 +1,4 @@
-==Liferay clues
+=Liferay clues
+
+Collection of useful information related to the Liferay portal.
 

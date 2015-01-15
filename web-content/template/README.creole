@@ -1,0 +1,1 @@
+=Liferay web content template tips.

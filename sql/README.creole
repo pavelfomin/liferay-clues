@@ -1,0 +1,2 @@
+=Liferay Uselful SQL queries
+
